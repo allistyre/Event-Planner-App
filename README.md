@@ -1,5 +1,11 @@
-# About
-This is an application where you can add an event and be able to see the event in the event list.
-# Usage
-Add an event in the add event section and view the event in the event list and then edit the event in the event list via tapping it.
-Hold the event to delete it. 
+# Event Planner Application
+
+## Overview
+A simple event planner created for a university project using object-oriented programming principles.
+
+## Features
+- Add events
+- Edit events
+- Delete events
+- Move events between categories
+- Organise events by category
